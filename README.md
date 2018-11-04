@@ -4,6 +4,7 @@ My favorite angular related items list
 ## UI
 
 - Notification : [ngx-toastr](https://github.com/scttcper/ngx-toastr)
+- Loading bar : [ngx-loading-bar](https://github.com/aitboudad/ngx-loading-bar)
 
 ## FORMS
 
