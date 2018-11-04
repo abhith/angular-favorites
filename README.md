@@ -14,6 +14,7 @@ My favorite angular related items list
 ## Modules
 
 - Authentication : [ngx-auth](https://github.com/serhiisol/ngx-auth)
+- Permission and roles based access control : [ngx-permissions](https://github.com/AlexKhymenko/ngx-permissions)
 
 ## Demo
 
