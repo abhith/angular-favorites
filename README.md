@@ -18,6 +18,10 @@ My favorite angular related items list
 - Authentication : [ngx-auth](https://github.com/serhiisol/ngx-auth)
 - Permission and roles based access control : [ngx-permissions](https://github.com/AlexKhymenko/ngx-permissions)
 
+### Helper library
+
+-  JWT : [angular-jwt](https://github.com/auth0/angular2-jwt)
+
 ### Demo
 
 - [in-memory-web-api](https://github.com/angular/in-memory-web-api)
