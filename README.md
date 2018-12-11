@@ -12,6 +12,7 @@ My favorite angular related items list
 ### Forms
 
 - Editor : [angular-editor](https://github.com/kolkov/angular-editor)
+- Select component : [ng-select/ng-select](https://github.com/ng-select/ng-select)
 
 ### Modules
 
