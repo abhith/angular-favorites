@@ -2,6 +2,7 @@ import { NgControl } from "@angular/forms";
 import { Directive, Input } from "../../../node_modules/@angular/core";
 
 @Directive({
+  // tslint:disable-next-line:directive-selector
   selector: "[disableControl]"
 })
 export class DisableControlDirective {
