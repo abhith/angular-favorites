@@ -8,6 +8,7 @@ My favorite angular related items list
 - Notification : [ngx-toastr](https://github.com/scttcper/ngx-toastr)
 - Loading bar : [ngx-loading-bar](https://github.com/aitboudad/ngx-loading-bar)
 - Syntax highlighting : [ngx-highlightjs](https://github.com/murhafsousli/ngx-highlightjs)
+- UI Components: [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap)
 
 ### Forms
 
