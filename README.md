@@ -3,17 +3,24 @@ My favorite angular related items list
 
 ## Dependencies
 
+### Forms
+
+#### [angular-editor](https://github.com/kolkov/angular-editor)
+A simple native wysiwyg editor for Angular 6+, 7+
+
+#### [Handsontable](https://github.com/handsontable/angular-handsontable)
+Angular Data Grid with Spreadsheet Look & Feel. Official Angular wrapper for Handsontable
+
+#### [ng-select/ng-select](https://github.com/ng-select/ng-select)
+Native angular 6+ select component
+
+
 ### UI
 
 - Notification : [ngx-toastr](https://github.com/scttcper/ngx-toastr)
 - Loading bar : [ngx-loading-bar](https://github.com/aitboudad/ngx-loading-bar)
 - Syntax highlighting : [ngx-highlightjs](https://github.com/murhafsousli/ngx-highlightjs)
 - UI Components: [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap)
-
-### Forms
-
-- Editor : [angular-editor](https://github.com/kolkov/angular-editor)
-- Select component : [ng-select/ng-select](https://github.com/ng-select/ng-select)
 
 ### Modules
 
